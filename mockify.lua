@@ -1,4 +1,4 @@
-#!C:/Program Files/Lua/lua-5.4.2_Win64_bin/lua
+#!lua
 
 local mock = ''
 
